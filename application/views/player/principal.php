@@ -44,7 +44,7 @@
 				</div>
 			</form>
 		</div>
-		<h3>Registro guardados</h3>
+		<h3>Saved records</h3>
 		<table class="table">
 			<thead>
 				<tr>
